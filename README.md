@@ -8,11 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/vitinhoalmeida" target="blank"><img src="https://img.shields.io/twitter/follow/vitinhoalmeida?logo=twitter&style=for-the-badge" alt="vitinhoalmeida" /></a> </p>
 
-- 🌱 I’m currently learning **GoLang, Angular and Kubernetes**
+- 🌱 I’m currently learning **Quarkus**
 
-- 💬 Ask me about **GoLang and Angular**
 
-- 📫 How to reach me **chapadin@gmail.com**
+- 📫 How to reach me **victornascimentoalmeida@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
