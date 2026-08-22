@@ -1,38 +1,35 @@
 <h1 align="center">Hi 👋, I'm Victor Almeida</h1>
-<h3 align="center">Student/Developer from Brazil</h3>
+<h3 align="center">Software Developer from Brazil</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoralmeida88&theme=github_dark" height="165" alt="Victor's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victoralmeida88&theme=github_dark" height="165" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=victoralmeida88&theme=dark" height="165" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=victoralmeida88&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/vitinhoalmeida" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/vitinhoalmeida?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+### 👨‍💻 About Me
+- 🌱 I’m currently learning and building with **Quarkus**
+- 🛠️ Focusing on backend engineering, scalable APIs, and containerized architectures
+- 📫 Reach me: **victornascimentoalmeida@gmail.com**
 
-- 🌱 I’m currently learning **Quarkus**
-- 📫 How to reach me: **victornascimentoalmeida@gmail.com**
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/vitinhoalmeida" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/victor-almeida-3a5211203/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://quarkus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="quarkus" width="40" height="40"/></a>
+<h3 align="center">GitHub Analytics:</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoralmeida88&theme=github_dark" height="165" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victoralmeida88&theme=github_dark" height="165" alt="Top Languages" />
 </p>
